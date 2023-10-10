@@ -7,45 +7,24 @@
     },
     {
       "name": "Ayaan",
-      "email": "ayaanmoharana@gmail.com",
+      "email": "ay@gmail.com",
       "age": "13",
       "city": "Waterford",
       "id": 2
     },
     {
-      "name": "Sourjit",
-      "email": "sourjit@hotmail.com",
+      "name": "Ram",
+      "email": "rm@hotmail.com",
       "age": "45",
       "city": "Dublin",
       "id": 3
     },
     {
-      "name": "Eesaan",
-      "email": "eesaanm@gmail.com",
+      "name": "Krish",
+      "email": "ks@gmail.com",
       "age": "15",
       "city": "killkenny",
       "id": 4
-    },
-    {
-      "name": "anita",
-      "email": "anita@gmail.com",
-      "age": "45",
-      "city": "Waterford",
-      "id": 5
-    },
-    {
-      "name": "sweta",
-      "email": "schinray@gmail.com",
-      "age": "42",
-      "city": "Dublin",
-      "id": 6
-    },
-    {
-      "name": "Ayaan",
-      "email": "ayaanmoharana@gmail.com",
-      "age": "13",
-      "city": "Waterford",
-      "id": 7
     }
   ],
   "comments": [
